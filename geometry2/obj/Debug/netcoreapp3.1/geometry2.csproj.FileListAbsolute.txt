@@ -1,0 +1,12 @@
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\bin\Debug\netcoreapp3.1\geometry2.exe
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\bin\Debug\netcoreapp3.1\geometry2.deps.json
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\bin\Debug\netcoreapp3.1\geometry2.runtimeconfig.json
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\bin\Debug\netcoreapp3.1\geometry2.runtimeconfig.dev.json
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\bin\Debug\netcoreapp3.1\geometry2.dll
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\bin\Debug\netcoreapp3.1\geometry2.pdb
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\obj\Debug\netcoreapp3.1\geometry2.AssemblyInfoInputs.cache
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\obj\Debug\netcoreapp3.1\geometry2.AssemblyInfo.cs
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\obj\Debug\netcoreapp3.1\geometry2.csproj.CoreCompileInputs.cache
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\obj\Debug\netcoreapp3.1\geometry2.dll
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\obj\Debug\netcoreapp3.1\geometry2.pdb
+C:\Users\kotha\Desktop\fellowship\geometry\geometry2\obj\Debug\netcoreapp3.1\geometry2.genruntimeconfig.cache
