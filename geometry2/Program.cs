@@ -29,7 +29,7 @@ namespace geometry2
             Console.WriteLine("give the value of end_Y4");
             end_Y4 = Convert.ToInt32(Console.ReadLine());
             double length2 = 0;
-            length2 = Math.Sqrt(Math.Pow((end_Y - start_Y), 2) + Math.Pow((end_X - start_X), 2));
+            length2 = Math.Sqrt(Math.Pow((end_Y4 - start_Y3), 2) + Math.Pow((end_X4 - start_X3), 2));
             if (length1 == length2)
             {
                 Console.WriteLine("both lines are equal");
